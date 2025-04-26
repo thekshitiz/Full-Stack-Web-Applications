@@ -49,9 +49,10 @@ This repository contains a collection of Full Stack Web Applications built using
 ---
 ## 📫 Contact
 
-- Website: [https://kshitizrai.com.np/](https://kshitizrai.com.np/)
-- LinkedIn: [linkedin.com/in/kshitizrai](https://www.linkedin.com/in/kshitizrai/)
-- Email: [hello@kshitizrai.com.np](mailto:hello@kshitizrai.com.np)
+- Portfolio: <a href="https://your-portfolio-link.com" target="_blank">your-portfolio-link.com</a>
+- LinkedIn: <a href="https://linkedin.com/in/kshitizraiofficial" target="_blank">linkedin.com/in/kshitizraiofficial</a>
+- Email: <a href="mailto:hello@kshitizrai.com.np" target="_blank">hello@kshitizrai.com.np</a>
+
 
 ---
 
